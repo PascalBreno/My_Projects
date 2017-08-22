@@ -1,4 +1,4 @@
-# hi, first you need know when está your project 
+# hi, first you need know to where is your project 
 
 #The name 'nameMethod' it is name to your 'persistencia'
 nameMethod = input('insira o nome da entidade ou 0 para finalizar\n')
